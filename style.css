@@ -141,8 +141,8 @@ header{
     padding-top: 80px;
 }
 .offer-div2{
-    margin: 80px;
-    padding-top: 20px;
+    margin: 30px;
+    padding-top: 50px;
 }
 .offer-photo{
     margin: 20px;
@@ -164,7 +164,7 @@ header{
     color: rgba(7, 2, 17, 0.60);
     font-family: Inter;
     font-size: 16px;
-    width: 350px;
+    width: 300px;
     
 }
   .offer-photo .offer-img{
@@ -172,19 +172,29 @@ header{
     margin: 50px 50px 90px 50px;
     border: 12px solid red;
     border-radius: 50%;
-    padding: 26px;
+    padding: 12px;
 }
 .aktar{
     width: 250px;
-    padding: 80px;
+    
+}
+
+.welcome-div-info2{
+    padding: 90px 250px 0 0;
+}
+.welcome-div-info{
+    width: 520px;
 }
 .offer-div2-info h1{
     color: #F00;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 38px;
 }
+.offer{
+   
+}
 .offer-div2-info p{
-    width: 250px;
+    width: 200px;
     color: rgba(7, 2, 17, 0.60);
 }
 .offer-div2-photo .offer-img2{
@@ -284,14 +294,14 @@ font-size: 18px;
     color: rgba(7, 2, 17, 0.60);
 }
 .fortfolio-img{
-    width: 380px;
-    height: 320px;
+    width: 300px;
+    height: 300px;
     margin: 5px;
     padding-left: 13px;
     
 }
 .fortfolio-img:hover{
-    width: 350px;
+    width: 320px;
    
 }
 .news{
